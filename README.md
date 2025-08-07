@@ -10,6 +10,10 @@ Currently exploring the intersection of Data Science, Molecular Biology, and AI.
 - Building interactive dashboards and SQL-based data insights  
 - Analyzing datasets (YouTube trends, Diwali sales, hotel bookings) using Python, SQL & Power BI  
 - Internship projects using Power BI and SQL for data-driven insights
+- Expanding skillsets in machine learning, R programming, and biological networks  
+
+
+
 
 🌟Projects & Highlights
 
