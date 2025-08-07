@@ -19,8 +19,7 @@ Currently exploring the intersection of Data Science, Molecular Biology, and AI.
 
 - Co-authored a paper exploring the overexpression of EZH2 in breast cancer through analysis of miRNA, lncRNA, and hypomethylation patterns.  
 - Designed a project to predict the 3D structure of Bordetella pertussis protein.  
-- Built end-to-end dashboards analyzing YouTube, hotel, and Diwali sales data using SQL and Power BI.  
-- Internal round winner at Smart India Hackathon with a Career Recommendation System built on personality and career interests.
+- Built end-to-end dashboards analyzing YouTube, hotel, and Diwali sales data using SQL and Power BI.
 
   ⸻
 
