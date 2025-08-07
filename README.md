@@ -20,7 +20,8 @@ Currently exploring the intersection of Data Science, Molecular Biology, and AI.
 
   ⸻
 
-🔧 Technical Strengths: Python • SQL • Power BI • Excel • Jupyter Notebooks • NCBI • UniProt BLAST • Clustal Omega •Data Cleaning & Visualization  
+🔧 Technical Strengths: Python • SQL • Power BI • Excel • Jupyter Notebooks
+• NCBI • UniProt BLAST • Clustal Omega •Data Cleaning & Visualization  
 
 📫 How to reach me:
 - LinkedIn: https://www.linkedin.com/in/ojas-bathla
